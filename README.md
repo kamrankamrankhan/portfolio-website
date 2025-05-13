@@ -66,3 +66,4 @@ package.json        # Project dependencies and scripts
 
 ## License
 This project is for personal portfolio use. For commercial use, ensure you have rights to all images and assets. 
+
